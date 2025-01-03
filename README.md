@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Koyel Pramanick.
 - 🏢 Currently I'm working in Accenture as a Data Scientist.
 - 🎓 I did my Masters in Statistics at Indian Institute of Technology, Kanpur, India.
-- 😊 I’m looking to collaborate on data analysis/data science related projects/works.
+- 😊 I’m looking to collaborate on Data Science (Data Analysis/Machine Learning/Deep Learning/NLP/LLM/SLM) related projects/works.
 - ✉️ Contact me via https://linkedin.com/in/koyelpramanick or email me at contact.koyel.pramanick@gmail.com .
 
 <!---
