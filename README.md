@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Koyel Pramanick.
-- 🏢 Currently I'm working in Accenture as a Data Scientist.
+- 🏢 Currently I'm working in Fractal Analytics as a Data Scientist.
 - 🎓 I did my Master's in Statistics at Indian Institute of Technology, Kanpur, India (2022) and Bachelor's in Statistics from Bethune College, Kolkata, India (2020).
-- 😊 I’m looking to collaborate in Data Science (Data Analysis/Machine Learning/Deep Learning/NLP/LLM/SLM) related projects/works.
+- 😊 I’m looking to collaborate in Data Science/AI Engineering/AI-ML Engineering related projects/works.
 - ✉️ Contact me via https://linkedin.com/in/koyelpramanick or email me at contact.koyel.pramanick@gmail.com .
 
 <!---
